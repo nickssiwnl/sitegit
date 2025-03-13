@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inicio HTML</title>
+    <link rel="stylesheet" href="pagina1.css">
+    
+</head>
+<body>
+   
+    <br>
+   <nav>
+<div class="texto1">
+    <h2>resumo de HTML</h2> 
+    <p >Resumo sobre a linguagem HTML
+
+        História do HTML: HTML, ou HyperText Markup Language, é a linguagem padrão utilizada para criar e estruturar páginas web.<br>
+        Foi criado por Tim Berners-Lee, um cientista britânico, em 1991.<br>
+        Tim Berners-Lee trabalhava no CERN (Organização Europeia para a Pesquisa Nuclear) e desenvolveu HTML como parte de um projeto para facilitar o compartilhamento de documentos científicos.<br>
+        A primeira versão do HTML, conhecida como HTML 1.0, foi lançada em 1993.<br>
+        Desde então, a linguagem evoluiu significativamente com várias atualizações e melhorias.<br> 
+        As versões mais notáveis incluem HTML 4.01, lançada em 1999, e HTML5, que foi padronizada em 2014.<br>  
+        HTML utiliza uma série de "tags" para definir diferentes elementos em uma página web.<br>
+        <br>
+        </p>
+        </div>
+    </nav> 
+    <nav class="nav2">
+        <h1> Aqui está um exemplo básico de um documento HTML:</h1>
+        <br>
+        <p>html
+      <p>  < !DOCTYPE html>
+        <br>
+        < html lang="pt-BR">
+        <br>
+        < head>
+        <br>
+            < meta charset="UTF-8">
+            <br>
+            < meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <br>
+            < title>Título da Página< /title>
+            <br>
+        < /head>
+        <br>
+        < body>
+        <br>
+            < h1>Olá, Mundo!< /h1>
+            <br>
+            < p>Este é um parágrafo em HTML.< /p>
+            <br>
+        < /body>
+        <br>
+        < html>
+        <br>
+      </p>
+	  <br>
+    </nav>
+	
+	
+    <nav class="nav3">
+       
+        
+      
+        <br>
+		 <h1>Inportancia do HTML:</h1>
+        <p>HTML é fundamental para a construção de sites e aplicações web. Ele permite que desenvolvedores criem estruturas e conteúdos de forma organizada e acessível.
+        <br>
+        Junto com CSS (Cascading Style Sheets) para estilos visuais e JavaScript para funcionalidades dinâmicas, HTML compõe o núcleo do desenvolvimento web.
+        <br>
+        Evolução do HTML5: HTML5 trouxe várias melhorias e novas funcionalidades, incluindo:
+      <br>
+        Suporte nativo para áudio e vídeo.
+      <br>
+        Novos elementos semânticos como < article>, < section>, < header>, e < footer>.
+            <br>        
+        Melhor suporte para gráficos e animações com < canvas> e SVG.
+        <br>
+        APIs para interação avançada com o usuário e armazenamento local.
+       <br>
+       HTML continua a evoluir, e a comunidade web trabalha constantemente para aprimorar a linguagem e adaptá-la às necessidades modernas da web.
+       <br>
+        Espero que este resumo ajude a entender a essência e a importância do HTML. Se precisar de mais detalhes ou tiver perguntas específicas, estou aqui para ajudar! 
+       <br> 
+    </p>
+</nav>
+
+
+<main class="main_content container">
+        
+    <section class="section-seu-codigo container">
+        
+        <div class="content">
+            
+            <h1 class="section_title"><i class="icon icon-code"></i> Paginas de projetos</h1>
+            
+            <div class="box-artigo">
+                
+                <nav data-pagination>
+  
+                  <a href="" disabled><i class=ion-chevron-left></i></a>
+                  
+                  <ul>
+                  
+                    <li class=current><a href="pagina1.html">1</a>
+                    <li><a href="pagina2.html">2</a>
+                    <li><a href="pagina3.html">3</a>
+                    <li><a href="pagina4.html">4</a>
+        
+                  </ul>
+                  
+                  <a href=#2><i class=ion-chevron-right></i></a>
+
+                </nav>
+
+            </div>
+
+
+        <div class="clear"></div>
+        </div>
+    </section>
+
+</main>
+
+
+    </body>
+</html>
